@@ -1,2 +1,6 @@
+<?php 
 
-This is new file
+	echo "test file.";
+
+
+?>
